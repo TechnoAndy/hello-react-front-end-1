@@ -128,8 +128,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Andy**
 
 - GitHub: [TechnoAndy](https://github.com/TechnoAndy)
@@ -141,8 +139,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] A better UI
 - [ ] A compelete application
@@ -164,7 +160,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+
 
 If you like this project, please give it a star.
 
@@ -174,7 +170,6 @@ If you like this project, please give it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse for their continued support. They've provided us with the reading material that have helped us to create this application.
 
