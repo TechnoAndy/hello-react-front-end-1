@@ -145,7 +145,7 @@ Example:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- BACK-END REPOSITORY -->
-## 💻 Front-end Repository <a name="frontend-repo"></a>
+## 💻 Back-end Repository <a name="backend-repo"></a>
 
 - [Click Here](https://github.com/TechnoAndy/hello-rails-back-end/tree/api)
 
