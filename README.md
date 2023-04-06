@@ -56,8 +56,6 @@ This is a simple React application that fetches data from an API endpoint and di
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - Fetch data from an API endpoint
 - Store the data in a store
 - Display the data in a component
